@@ -34,11 +34,13 @@ sleeper_buffs:
   speed:
     time: 20
     level: 1
+    chance: 0
 
 non_sleeper_debuffs:
   slow:
     time: 3
     level: 1
+    chance: 0
 
 # The commands in the list below are executed in the console for EACH (non-)sleeper
 # One tag is supported at this time: <user>, which will be replaced by each user's name
